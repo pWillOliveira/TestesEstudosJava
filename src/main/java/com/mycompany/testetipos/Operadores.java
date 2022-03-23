@@ -23,11 +23,11 @@ public class Operadores {
         r = (n1>n2)?0:1;
         System.out.println(r); */
         
-        String nome1 = "Gustavo";
+        /*String nome1 = "Gustavo";
         String nome2 = "William";
         String nome3 = new String("Gustavo");
         String res;
-        res = (nome1.equals(nome1))?"Igual":"Diferente"; //Para objetos utilizar .Equals
+        res = (nome1==(nome1))?"Igual":"Diferente"; //Para objetos utilizar .Equals
         System.out.println(res);
         
         int x, y ,z;
@@ -36,7 +36,12 @@ public class Operadores {
         z = 12;
         boolean r;
         r = (x<y || y==z)?true:false;
-        System.out.println(r);
+        System.out.println(r);*/
+        
+        /*String x = "Curso";
+        String y = "Video";
+        String z = x + y;
+        System.out.println(z);*/
         
         
     }
